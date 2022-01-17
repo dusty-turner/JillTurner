@@ -1,0 +1,23 @@
+---
+title: "Jill Turner"
+image: "jillturner.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jill-turner-80276028/"
+  # - label: Twitter
+    # url: "https://twitter.com/"
+  # - label: GitHub
+    # url: "https://github.com/"
+  - label: Email
+    url: "mailto:turner.jill.e@gmail.com"
+output:
+  postcards::solana
+  # postcards::jolla
+  # postcards::jolla_blue
+---
+ 
+Jill Turner is an Application Architect at Mayo Clinic with over 16 years of Epic software implementation experience. She loves to run, Peloton (@jillecat), and eat brussel sprouts.  She lives in Fairfax Station, VA with her Army Husband [Dusty](dustysturner.com) and two kids Cal (8) and Reese (6). 
+
+#### Education
+
+B.A. Political Science and Economics | Michigan State University: August 2000 - May 2004
